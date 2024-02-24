@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eastvantage/static/css/main.e525d18b.css",
+    "main.js": "/eastvantage/static/js/main.2cf9a364.js",
+    "static/js/453.598ff035.chunk.js": "/eastvantage/static/js/453.598ff035.chunk.js",
+    "index.html": "/eastvantage/index.html",
+    "main.e525d18b.css.map": "/eastvantage/static/css/main.e525d18b.css.map",
+    "main.2cf9a364.js.map": "/eastvantage/static/js/main.2cf9a364.js.map",
+    "453.598ff035.chunk.js.map": "/eastvantage/static/js/453.598ff035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e525d18b.css",
+    "static/js/main.2cf9a364.js"
+  ]
+}
